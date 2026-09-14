@@ -1,0 +1,10 @@
+h1, h2, h3 {
+	text-align: center;
+}
+.center {
+	text-align: center;
+}
+.gallery {
+	display: flex;
+	flex-wrap: wrap;
+}
